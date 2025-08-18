@@ -1,0 +1,14 @@
+/home/purple/Desktop/Projects/Griffith/Chapter-1/Averages/Averages/bin/Debug/net8.0/Averages
+/home/purple/Desktop/Projects/Griffith/Chapter-1/Averages/Averages/bin/Debug/net8.0/Averages.deps.json
+/home/purple/Desktop/Projects/Griffith/Chapter-1/Averages/Averages/bin/Debug/net8.0/Averages.runtimeconfig.json
+/home/purple/Desktop/Projects/Griffith/Chapter-1/Averages/Averages/bin/Debug/net8.0/Averages.dll
+/home/purple/Desktop/Projects/Griffith/Chapter-1/Averages/Averages/bin/Debug/net8.0/Averages.pdb
+/home/purple/Desktop/Projects/Griffith/Chapter-1/Averages/Averages/obj/Debug/net8.0/Averages.GeneratedMSBuildEditorConfig.editorconfig
+/home/purple/Desktop/Projects/Griffith/Chapter-1/Averages/Averages/obj/Debug/net8.0/Averages.AssemblyInfoInputs.cache
+/home/purple/Desktop/Projects/Griffith/Chapter-1/Averages/Averages/obj/Debug/net8.0/Averages.AssemblyInfo.cs
+/home/purple/Desktop/Projects/Griffith/Chapter-1/Averages/Averages/obj/Debug/net8.0/Averages.csproj.CoreCompileInputs.cache
+/home/purple/Desktop/Projects/Griffith/Chapter-1/Averages/Averages/obj/Debug/net8.0/Averages.dll
+/home/purple/Desktop/Projects/Griffith/Chapter-1/Averages/Averages/obj/Debug/net8.0/refint/Averages.dll
+/home/purple/Desktop/Projects/Griffith/Chapter-1/Averages/Averages/obj/Debug/net8.0/Averages.pdb
+/home/purple/Desktop/Projects/Griffith/Chapter-1/Averages/Averages/obj/Debug/net8.0/Averages.genruntimeconfig.cache
+/home/purple/Desktop/Projects/Griffith/Chapter-1/Averages/Averages/obj/Debug/net8.0/ref/Averages.dll
